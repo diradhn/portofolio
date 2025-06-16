@@ -1,1 +1,1 @@
-https://diradhn.github.io/portofolio/Diaz Profile.html
+https://diradhn.github.io/portofolio/index.html
